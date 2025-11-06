@@ -38,7 +38,8 @@ Method 1: Local Mode (FREE - No API Keys Required)
 Run the system completely locally without any external services:
 
 bash
-python poc_local.py
+python poc.py
+
 Features:
 
 Uses local embedding models (all-MiniLM-L6-v2)
