@@ -1,4 +1,4 @@
-# poc.py - Completely free local version
+# poc.py - Run with OpenAI
 
 
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
@@ -88,3 +88,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
