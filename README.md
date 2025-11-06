@@ -55,6 +55,8 @@ No costs or API limits
 
 Performs document search and retrieval
 
+
+
 Method 2: OpenAI Mode (With API Key)
 
 Run with OpenAI for enhanced question-answering:
